@@ -24,7 +24,7 @@
     <auto.value.version>1.0-rc2</auto.value.version>
     <jsr305.version>3.0.0</jsr305.version>
     <junit.version>4.11</junit.version>
-    <assertj.version>1.7.0</assertj.version>
+    <assertj.version>3.27.7</assertj.version>
   </properties>
 
   <scm>
